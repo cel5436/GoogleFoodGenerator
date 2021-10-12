@@ -10,4 +10,4 @@ Want to help me learn more about APIs and Python? Send me a message on Discord!
 
 Thank you for enjoying my code. 
 
-<iframe src="https://giphy.com/embed/NRW2yP1aoYTsY" width="480" height="335" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/taylor-weekend-NRW2yP1aoYTsY">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:70%;position:relative;"><iframe src="https://giphy.com/embed/NRW2yP1aoYTsY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/taylor-weekend-NRW2yP1aoYTsY">via GIPHY</a></p>
